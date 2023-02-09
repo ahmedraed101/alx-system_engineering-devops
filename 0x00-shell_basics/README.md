@@ -6,6 +6,8 @@
 `ls -ln` to display users and groups ID's numerically
 
 `cd`  - used to navigate the system dirs 
+`cd ~` - goes to the home
+`cd ~-` - goes to the last working directory
 
 `mkdir` - used to create directories `mkdir <dirname>`
 
