@@ -10,3 +10,5 @@
 `mkdir` - used to create directories `mkdir <dirname>`
 
 `mv` - used to change file's and dir's location and rename them
+
+`rm` - used to remove files `rm <filepath>`
