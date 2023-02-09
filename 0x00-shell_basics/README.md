@@ -14,3 +14,5 @@
 `mv` - used to change file's and dir's location and rename them
 
 `rm` - used to remove files and dirs `rm <filepath>` `rm -r <dirpath>`
+
+`cp` - used to copy files
