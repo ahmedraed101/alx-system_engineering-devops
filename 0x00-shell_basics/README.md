@@ -1,4 +1,9 @@
-#basic commands
+#0x00-shell-basics
+
+###Scripts
+####0-current_working_directory -> uses the 'pwd' command to get the current working directory
+
+##basic commands
 `pwd` - prints the current working directory to the stdout
 
 `ls`  - lists all files in the current directory (`ls <dirpath>` for other dirs)
